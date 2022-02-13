@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "dc596982-8f79-4527-9f7b-7f669223c3f9",
+      "name": "user",
+      "email": "user@gmail.com"
+    },
+    {
+      "id": "b02b5b96-d047-405e-9117-d4ab0ea0426c",
+      "name": "Thilini Abesekara",
+      "email": "thiliniabesekara1998@gmail.com"
+    },
+    {
+      "id": "101edca7-4035-4bc8-8be4-273d4c01e77b",
+      "name": "Madushani",
+      "email": "madushani@gmail.com"
+    }
+  ]
+}
